@@ -1,0 +1,6 @@
+{
+  "name": "Minimal Finance Tracker",
+  "description": "A minimal, professional personal finance tracker with clean light/dark modes, fast transaction logging, calendar tracking, and CSV/TXT exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
